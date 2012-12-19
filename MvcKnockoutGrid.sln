@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{E38F3E4F-6DA4-43EB-BCF3-E4B8C2CF17F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcKnockoutGrid", "MvcKnockoutGrid\MvcKnockoutGrid.csproj", "{0C35536F-6CAD-406F-A149-DDEA07D3ECA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcKnockoutGrid.Tests", "MvcKnockoutGrid.Tests\MvcKnockoutGrid.Tests.csproj", "{FC702219-85CE-41EF-B8B5-05438A271BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E38F3E4F-6DA4-43EB-BCF3-E4B8C2CF17F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38F3E4F-6DA4-43EB-BCF3-E4B8C2CF17F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38F3E4F-6DA4-43EB-BCF3-E4B8C2CF17F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38F3E4F-6DA4-43EB-BCF3-E4B8C2CF17F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C35536F-6CAD-406F-A149-DDEA07D3ECA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C35536F-6CAD-406F-A149-DDEA07D3ECA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C35536F-6CAD-406F-A149-DDEA07D3ECA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C35536F-6CAD-406F-A149-DDEA07D3ECA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC702219-85CE-41EF-B8B5-05438A271BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC702219-85CE-41EF-B8B5-05438A271BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC702219-85CE-41EF-B8B5-05438A271BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC702219-85CE-41EF-B8B5-05438A271BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
